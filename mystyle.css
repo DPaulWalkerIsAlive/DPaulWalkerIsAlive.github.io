@@ -1,9 +1,12 @@
-body {
-	background: lightblue
-}
-body {
-	text-align:center;
-      }
+header {
+      text-align: center;
+      background: url('https://lh3.google.com/u/0/d/0Bz7yDuVhS9wxalNHSlNzTWdqU2c=w1917-h873-iv1');
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+    }
     h1 {
       font-size: 70px;
     }
@@ -14,7 +17,7 @@ body {
     }
     ul {
       padding: 10px;
-      background: rgba(100,100,100);
+      background: rgba(0,0,0,0.5);
     }
     li {
       display: inline;
@@ -34,4 +37,5 @@ body {
         padding: 5px;
         display: block;
       }
+    }
     }
